@@ -6,9 +6,6 @@ The **Contact App** is a full-stack application designed to manage contact infor
 ---
 
 ## How to Clone and Set Up the Project
-##Username and password for login website
-username:admin
-password:admin
 1. **Clone the Repository:**
    Open a terminal and run:
    ```bash
@@ -140,5 +137,7 @@ The `contact` collection in MongoDB adheres to the following schema:
 4. **Access the Application:**
    - Frontend: `http://localhost:5173`
    - Backend: `http://localhost:3000`
-
+##Username and password for login website
+username:admin
+password:admin
 ---
