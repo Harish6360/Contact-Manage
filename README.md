@@ -6,7 +6,9 @@ The **Contact App** is a full-stack application designed to manage contact infor
 ---
 
 ## How to Clone and Set Up the Project
-
+##Username and password for login website
+username:admin
+password:admin
 1. **Clone the Repository:**
    Open a terminal and run:
    ```bash
