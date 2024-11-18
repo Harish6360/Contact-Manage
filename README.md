@@ -10,7 +10,7 @@ The **Contact App** is a full-stack application designed to manage contact infor
 1. **Clone the Repository:**
    Open a terminal and run:
    ```bash
-   git clone https://github.com/ManojGowda89/contact-app.git
+   https://github.com/Harish6360/Contact-Manage.git
    cd contact-app
    ```
 
