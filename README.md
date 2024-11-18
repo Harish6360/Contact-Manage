@@ -137,7 +137,7 @@ The `contact` collection in MongoDB adheres to the following schema:
 4. **Access the Application:**
    - Frontend: `http://localhost:5173`
    - Backend: `http://localhost:3000`
-##Username and password for login website
-username:admin
-password:admin
+   - Username and password for login website
+     username:admin
+     password:admin
 ---
