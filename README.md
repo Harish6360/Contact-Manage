@@ -117,7 +117,7 @@ The `contact` collection in MongoDB adheres to the following schema:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ManojGowda89/contact-app.git
+  https://github.com/Harish6360/Contact-Manage.git
    cd contact-app
    ```
 
